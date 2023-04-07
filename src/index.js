@@ -1,5 +1,5 @@
 'use string';
-import { fetchImage } from './js/fetchImage.js';
+import { fetchImage } from './js/fetchImage';
 import { pageScrolling } from './js/pageScrolling';
 import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
